@@ -1,0 +1,6 @@
+# this .txt file answers what packages need to be installed on this machine before the code can run
+# It's used by pip install -r requirements.txt
+# import at the top of main.py answers: "in this specific file, which of those installed packages am I actually using? It's what makes the code inside that package available to your script when it runs
+
+openai
+python-dotenv
